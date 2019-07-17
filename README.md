@@ -42,16 +42,17 @@ This is just a guideline. You can adjust or totally redesign it.
 
 **Places API**
 
-[https://geoawesomeness.com/google-maps-api-alternatives-best-cheap-affordable/](https://geoawesomeness.com/google-maps-api-alternatives-best-cheap-affordable/)
+[https://github.com/FaridSafi/react-native-google-places-autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete)
 
 You can choose any Places API as your datasource.
 
 ## Technology expectations
 - Using **React Native** to develop ios/android application.
-- Good code structure and clean code.
 - You can use any tools to develop it's up to you.
+- Good code structure and clean code.
 - Testing is a must.
 - Typescript is a plus.
+- Have experienced to publish app to Play Store/App Store.
 
 ## How to submit
 Fork this repository and send your repo to hireme@thelivingos.com when you're done an assignment.
