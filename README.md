@@ -1,4 +1,4 @@
-# LivingOS: Frontend challenge
+# LivingOS: Mobile challenge
 
 Hi, all applicants if you are interested in this job. We would like to test your coding skills.
 
@@ -47,11 +47,10 @@ This is just a guideline. You can adjust or totally redesign it.
 You can choose any Places API as your datasource.
 
 ## Technology expectations
-- Choosing one of these frameworks: **Angular**, **Vue** or **React**.
+- Using **React Native** to develop ios/android application.
 - Good code structure and clean code.
 - You can use any tools to develop it's up to you.
 - Testing is a must.
-- Docker is a plus.
 - Typescript is a plus.
 
 ## How to submit
