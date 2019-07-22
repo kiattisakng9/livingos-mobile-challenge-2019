@@ -55,7 +55,7 @@ You can choose any Places API as your datasource.
 - Have experienced to publish app to Play Store/App Store.
 
 ## How to submit
-Fork this repository and send your repo to hireme@thelivingos.com when you're done an assignment.
+Fork this repository, make a pull request to this repo. when you're done an assignment.
 
 ## Contact
 if you have any further questions, please feel free to contact us on hireme@thelivingos.com
